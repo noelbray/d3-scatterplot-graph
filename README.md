@@ -1,4 +1,4 @@
-# d3-scatterplot-graph
+# D3 Scatterplot Graph of Doping in Professional Bicycle Racing From Around 1994 to 2015
 
 *__This is the code I wrote to pass the freeCodeCamp "D3 Scatterplot" challenge.__*
 
