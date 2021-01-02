@@ -1,0 +1,36 @@
+<!doctyp hmtl>
+
+<html>
+
+<head>
+
+  <title>D3 Scatterplot Graph of Doping in Professional Bicycle Racing</title>
+  
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="author" content="Noel Bray" />
+  <meta name="description" content="Check out this D3 scatterplot of Doping in Professional Bicycle Racing from the years of 1994 to 2015." />
+  
+  <link rel="stylesheet" href="css/main.css" />
+  
+  <script defer src="js/main.js"></script>
+  <!-- D3 external script -->
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+
+</head>
+
+<body>
+
+  <noscript>
+    Sorry, your browser does not support JavaScript and unfurtunately, some 
+    website freatures may not work, some website functionality may be lost.
+  </noscript>
+  
+  
+  <!-- <h1 id="title">Doping in Professional Bicycle Racing</h1>
+  <p id="subtitle">35 Fastest times up Alpe d'Huez</p>
+   -->
+
+</body>
+
+</html>
